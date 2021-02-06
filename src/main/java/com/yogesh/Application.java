@@ -13,6 +13,13 @@ import com.yogesh.repo.CustomerRepo;
 public class Application {
 
 	public static void main(String[] args) {
+
+
+
+
+                 System.out.println("3rd Data JPA");
+
+
 		ConfigurableApplicationContext context = SpringApplication.run(Application.class, args);
 	
 		
